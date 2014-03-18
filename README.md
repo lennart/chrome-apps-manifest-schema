@@ -30,4 +30,4 @@ module.exports = (grunt) ->
 
 ## Credits
 
-Built upon [chrome-extension-manifest-schema](https://github.com/jasonkarns/chrome-extension-manifest-schema) for [tv4](https://github.com/geraintluff/tv4) this schema will _try to_ validate your manifest.json against the current chrome apps manifest [taken from the official chrome apps documentation by google](https://developer.chrome.com/apps/manifest). If this link breaks, or the schema implemented differs from the 
+Built upon [chrome-extension-manifest-schema](https://github.com/jasonkarns/chrome-extension-manifest-schema) for [tv4](https://github.com/geraintluff/tv4) this schema will _try to_ validate your manifest.json against the current chrome apps manifest [taken from the official chrome apps documentation by google](https://developer.chrome.com/apps/manifest). If this link breaks, or the schema implemented here differs from the authoritative source, please tell me so.
